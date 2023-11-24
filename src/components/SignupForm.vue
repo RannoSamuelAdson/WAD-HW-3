@@ -49,7 +49,6 @@ export default {
 
   <style scoped>
   .signup-form {
-    padding-top: 30px;
     background-color: rgb(209, 255, 209);
     min-width: calc(10% + 40px);
     width: 30%;
