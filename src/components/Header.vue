@@ -27,7 +27,6 @@ nav {
     background-color: darkgray;
     justify-content: center;
     margin-bottom: 10px;
-
 }
 .flex_container_row{
     display: flex;
@@ -39,7 +38,6 @@ nav a {
     margin: 0 10px; /* Optional: add some space between the links */
 }
 
-/* If you want the "|" to be part of the layout with spacing, you might consider the following: */
 p {
     margin: 0 10px; /* Add margin around the <p> to space out the separator */
 }

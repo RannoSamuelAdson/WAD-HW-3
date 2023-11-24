@@ -24,6 +24,7 @@ footer {
   width: 100%;
   background-color: darkgray;
   text-align: center;
+
 }
 
   </style>
