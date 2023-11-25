@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <h1>This is the main page</h1>
+  <post-content />
   <Footer />
 </template>
 
@@ -8,11 +8,14 @@
 // @ is an alias to /src
 import Header from '@/components/Header.vue'
 import Footer from '@/components/Footer.vue'
+import PostContent from '@/components/PostContent.vue'
+
 export default {
   name: 'HomeView',
   components: {
     Header,
-    Footer
+    Footer,
+    PostContent
   }
 }
 </script>
