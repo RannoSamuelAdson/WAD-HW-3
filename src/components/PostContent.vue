@@ -23,7 +23,12 @@ export default {
   name: 'PostContent',
   data: function () {
     return {
-      posts: this.$store.state.posts
+    }
+  },
+
+  computed: {
+    posts () {
+      return this.$store.state.posts
     }
   }
 }
