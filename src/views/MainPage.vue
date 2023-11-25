@@ -19,3 +19,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+body {
+  padding:0px;
+}
+</style>>

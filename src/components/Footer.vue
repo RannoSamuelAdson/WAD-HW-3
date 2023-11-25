@@ -18,13 +18,13 @@ export default {
   <style scoped>
 
 footer {
-  position: fixed;
+  position: static;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: darkgray;
-  text-align: center;
-
 }
-
+p {
+  margin-bottom: 0;
+}
   </style>
