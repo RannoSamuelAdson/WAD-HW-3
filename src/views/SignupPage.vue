@@ -27,7 +27,7 @@ export default {
   padding-top: 30px;
   background-color: rgb(158, 158, 158); /* Use background-color, not fill */
   height: calc(100vh - 180px); /* Calculate the height based on the viewport height minus the heights of header and footer */
-  width: calc(100% + 55px);
+  width: 100%;
 
 }
 </style>
