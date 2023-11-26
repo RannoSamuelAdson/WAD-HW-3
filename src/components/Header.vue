@@ -27,6 +27,8 @@ nav {
     background-color: darkgray;
     justify-content: center;
     margin-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
 }
 .flex_container_row{
     display: flex;
